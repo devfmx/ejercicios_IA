@@ -10,7 +10,7 @@ Hola, aquí podrás encontrar los ejercicios que se realizan en la especialidad 
 
 ## Roadmap
 
-El libro se divide en 2 partes, aunque el libro está en inglés los ejercicios se encuentran en español.
+El libro se divide en 2 partes, aunque el libro está en inglés los ejercicios se encuentran en un Notebook y en español.
 
 ### 1. The Fundamentals of Machine Learning
 - The Machine Learning Landscape
@@ -23,3 +23,7 @@ El libro se divide en 2 partes, aunque el libro está en inglés los ejercicios 
 - Ensemble Learning and Random Forests
 - Dimensionality Reduction
 - Unsupervised Learning Techniques
+
+## Live Preview en Google Colaboratory
+
+* [Ejercicio 1 y 2 de Clasificación](https://colab.research.google.com/drive/1qlm3Plxp8dW2IEeu8TJE1hFMgOhXJrPT?usp=sharing)
