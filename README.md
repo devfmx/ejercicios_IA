@@ -26,7 +26,7 @@ El libro se divide en 2 partes, aunque el libro está en inglés los ejercicios 
 Gracias a **Fernanda Ochoa**
 
 ### Proyecto **Recognize Flowers with TensorFlow Lite on Android**
-<div style="width:100%; height:300px;"><img src="static/imgs/ATF.png"></div>  
+![cover](static/imgs/ATF.png)
 
 Del codelab **Recognize Flowers with TensorFlow Lite on Android**  
 El codelab se encuentra en inglés, sin embargo aquí lo encontrarás en español.  
@@ -34,7 +34,7 @@ El codelab se encuentra en inglés, sin embargo aquí lo encontrarás en españo
 Gracias a **Elizabeth, Waldo y Emilio**
 
 ### Proyecto **Traducción de ejercicios del Curso: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
-<div style="width:100%; height:300px;"><img src="static/imgs/brain.png"></div>  
+![cover](static/imgs/brain.png)
 
 ##### Roadmap del Curso
 
