@@ -33,7 +33,12 @@ Gracias a **Fernanda Ochoa**
 Del codelab **Recognize Flowers with TensorFlow Lite on Android**  
 El codelab se encuentra en inglés, sin embargo aquí lo encontrarás en español.  
 
-Gracias a **Elizabeth, Waldo y Emilio**
+#### Notebooks en Español
+* Waldo y Emilio [Android App](https://github.com/waldos200/tensorlow-flowers-IA-DEVF-Batch43)
+* Elizabeth [Notebook](https://github.com/devfmx/ejercicios_IA/blob/master/Codelabs/AIparatodxs.ipynb)
+* Eunice [Notebook](https://github.com/devfmx/ejercicios_IA/blob/master/Codelabs/FlowerItLite.ipynb)
+
+Gracias a **Elizabeth, Eunice, Waldo y Emilio**
 
 ### Proyecto **Traducción de ejercicios del Curso: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 ![cover](static/imgs/brain.png)
@@ -56,3 +61,4 @@ Gracias a **Benji**
 * Elizabeth - [Reconociendo imagenes de flores con TensorFlow Lite](https://colab.research.google.com/drive/1e77h4_8GuIZA4Ygy_vBLvmV8yGJ5wGBc?usp=sharing)
 * Waldo y Emilio - [Reconociendo imagenes de flores con TF Lite en Android](https://github.com/waldos200/tensorlow-flowers-IA-DEVF-Batch43)
 * Benji - [Más allá de un "Hola Mundo", un ejemplo de visión computacional](https://colab.research.google.com/drive/1AspW9R8jZ8bMM5sRcjdtQqshpcXRNo04?usp=sharing)
+* Eunice - [Reconocer flores por medio del aprendizaje por transferencia](https://colab.research.google.com/drive/1vLUVAnOjVXpZrLHuoezGAxS2whxP2VQn#scrollTo=DX9bsbsX9oNT)
