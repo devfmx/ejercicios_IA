@@ -26,7 +26,7 @@ El libro se divide en 2 partes, aunque el libro está en inglés los ejercicios 
 Gracias a **Fernanda Ochoa**
 
 ### Proyecto **Recognize Flowers with TensorFlow Lite on Android**
-<div style="text-align:center"><img style="width:80%" src="static/imgs/ATF.png"></div>  
+<div style="width:100%; height:300px;"><img src="static/imgs/ATF.png"></div>  
 
 Del codelab **Recognize Flowers with TensorFlow Lite on Android**  
 El codelab se encuentra en inglés, sin embargo aquí lo encontrarás en español.  
@@ -34,7 +34,7 @@ El codelab se encuentra en inglés, sin embargo aquí lo encontrarás en españo
 Gracias a **Elizabeth, Waldo y Emilio**
 
 ### Proyecto **Traducción de ejercicios del Curso: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
-<div style="text-align:center"><img style="width:100%" src="static/imgs/brain.png"></div>  
+<div style="width:100%; height:300px;"><img src="static/imgs/brain.png"></div>  
 
 ##### Roadmap del Curso
 
@@ -45,6 +45,7 @@ El curso se divide en 4 módulos, sin embargo el curso es en inglés por lo que 
   - [Beyond Hello World, A Computer Vision Example](https://github.com/devfmx/ejercicios_IA/blob/master/Coursera/Traducci%C3%B3n_Course_1_Part_4_Lesson_2_Notebook.ipynb)
 - Week 3: Enhancing Vision with Convolutional Neural Networks
 - Week 4: Using Real-world Images
+
 Gracias a **Benji**
 
 ### Live Preview en Google Colaboratory
