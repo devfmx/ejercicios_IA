@@ -1,3 +1,4 @@
+<link href="css/style.css" rel="stylesheet"></link>
 # Repositorio de los ejercicios realizados en la especialidad de Inteligencia Artificial
 
 Hola, aquí podrás encontrar los ejercicios que se realizan en la especialidad de Inteligencia Artificial.
