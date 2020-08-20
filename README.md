@@ -28,8 +28,10 @@ El libro se divide en 2 partes, aunque el libro está en inglés los ejercicios 
 
 Del codelab **Recognize Flowers with TensorFlow Lite on Android**
 El codelab se encuentra en inglés, sin embargo aquí lo encontrarás en español
+Gracias a **Elizabeth, Waldo y Emilio**
 
 ## Live Preview en Google Colaboratory
 
 * Fernanda Ochoa - [Ejercicio 1 y 2 de Clasificación](https://colab.research.google.com/drive/1qlm3Plxp8dW2IEeu8TJE1hFMgOhXJrPT?usp=sharing)
 * Elizabeth - [Reconociendo imagenes de flores con TensorFlow Lite](https://colab.research.google.com/drive/1e77h4_8GuIZA4Ygy_vBLvmV8yGJ5wGBc?usp=sharing)
+* Waldo y Emilio - [Reconociendo imagenes de flores con TF Lite en Android](https://github.com/waldos200/tensorlow-flowers-IA-DEVF-Batch43)
